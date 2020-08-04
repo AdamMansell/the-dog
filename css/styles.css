@@ -1,0 +1,21 @@
+h1 {
+  color: blue;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+.dog {
+  border-radius: 15px;
+  border-style: dashed;
+}
+
+.funFont {
+  font-family: fantasy;
+
+}
